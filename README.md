@@ -6,7 +6,8 @@
 
 - Eu sou o Diego da Silva e tenho 18 anos de idade
 - 🏙️ Eu moro em Capela de Santana, RS
-- 📖 Desenvolvo projetos em Python, C, C++ e JavaScript 
+- 📖 Desenvolvo projetos em Python, C, C++ e JavaScript
+- 🖊️ Conhecimento em Git e Git LFS (Large File Storage)
 - 🎈 Estou sempre disposto a aprender
 - 🎓 Estou no quarto ano do ensino médio com técnico em informática integrado.
 - Busco uma vaga no mercado como desenvolvedor de softwares jr ou estagiário.
